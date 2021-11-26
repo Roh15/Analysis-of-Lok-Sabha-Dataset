@@ -12,14 +12,16 @@ https://docs.google.com/presentation/d/1iJh1Oz8q1Nbub8ikniGeBbv1oHnvrm0qxQ9noowQ
 * **Text Files**: https://drive.google.com/drive/folders/14IBwHoa32ANWQhVATjbFoU6MkwZkOk2g?usp=sharing
 
 ## Interface
-text
+An interface to visualize the locations mentioned in the 16th Lok Sabha. It can be visited [here](https://ls-analysis.herokuapp.com/).
 
 ## Notebook descriptions
 
 ### Dataset Creation
 
-* **Notebook 1**: text
-* **Notebook 2**: text
+* **Lok Sabha Data Scraper**: Contains scripts to download the lok sabha debate pdfs available at Lok Sabha Digital Library.
+* **Aryan2 to Unicode Map**: Contains script for knowing the font(s) used in a pdf along with their encoding and a Aryan2 font encoding to Unicode encoding map.
+* **OCR**: Contains script for performing on pdfs.
+* **Lok Sabha Data Harshil**: Contains script for cleaning the text and storing them in desired format as a csv file.
 
 ### Analysis
 
@@ -28,5 +30,5 @@ text
 
 ### Interface
 
-* **Notebook 1**: text
-* **Notebook 2**: text
+* **Geocoding (GoogleMapsAPI)**: Contains script for getting the geo-coordinates (latitude and longitude) of a location using Google Maps API.
+* **Geocoding (NominatimAPI)**: Contains script for getting the geo-coordinates (latitude and longitude) of a location using Nominatim API. Also, contains script for getting names of all countries, states and cities/towns in the world and translating them into hindi using google translate.
