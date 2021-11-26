@@ -2,7 +2,7 @@
 A dataset and some analysis of all the Lok Sabha debates up till 25th March 2021.
 
 ## Link to the report
-<link>
+https://drive.google.com/file/d/14jdKCWyNvMK1_zHh7Umq7fMoeTg4xiAu/view?usp=sharing
 
 ## Link to the slides describing the process
 https://docs.google.com/presentation/d/1iJh1Oz8q1Nbub8ikniGeBbv1oHnvrm0qxQ9noowQcN4/edit?usp=sharing
