@@ -27,6 +27,7 @@ An interface to visualize the locations mentioned in the 16th Lok Sabha. It can 
 
 * **NER and POS Tagging**: Contains scripts to perform NER on English data and POS Tagging on Hindi data. Also includes a failed attempt at NER using Deep Pavlov for Hindi data.
 * **Calculate Stats**: Contains scripts to calculate various stats such as number of files in each Lok Sabha, number of entites, frequency of entites, etc.
+* **Hindi NER**: Contains trials run for NER for Hindi text using Flair and IndicBart. 
 
 ### Interface
 
