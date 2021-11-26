@@ -1,6 +1,9 @@
 # Analysis of Lok Sabha Dataset
 A dataset and some analysis of all the Lok Sabha debates up till 25th March 2021.
 
+## Link to the report.
+<link>
+
 ## Link to the slides describing the process.
 https://docs.google.com/presentation/d/1iJh1Oz8q1Nbub8ikniGeBbv1oHnvrm0qxQ9noowQcN4/edit?usp=sharing
 
