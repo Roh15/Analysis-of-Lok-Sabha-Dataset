@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <style>
+
+            /* table, th, td {
+                border: 1px solid black;
+            } */
+
+            th, td {
+                padding: 9px;
+                border-bottom: 1px solid #ddd;
+            }
+
+            tr:nth-child(even) {background-color: #f2f2f2;}
+
+            th {
+                background-color: #04AA6D;
+                color: white;
+            }
+
+            td {
+                text-align: center;
+            }
+
+        </style>
+        {% block head %}{% endblock %}
+        {% block script %}{% endblock %}
+    </head>
+    <body>
+        {% block body %}{% endblock %}
+    </body>
+</html>

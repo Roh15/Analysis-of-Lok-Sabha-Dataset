@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Political Discourse</title>
+{% endblock %}
+
+{% block body %}
+<div class="main" style="padding-top: 16px">
+    <h1 style="text-align: center">Political Discourse</h1>
+    <br>
+    <h2 style="text-align: center">For Lok Sabha {{ LSNo }}</h2>
+</div>
+<div class="data">
+    <table class="stats" style="border-collapse: collapse; margin-left:auto; margin-right:auto; width: 600px;">
+        <tr>
+            <th>Entity_Type</th>
+            <th>Frequency</th>
+        </tr>
+        {% for value in table %}
+        <tr>
+            <td>{{ value[1] }}</td>
+            <td>{{ value[2] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}
+
+{% block script %}
+
+{% endblock %}
