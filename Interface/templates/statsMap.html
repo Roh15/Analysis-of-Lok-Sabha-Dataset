@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Political Discourse</title>
+{% endblock %}
+
+{% block body %}
+<div class="main" style="padding-top: 30px">
+    <h1 style="text-align: center; font-family:verdana; font-size:40px">Political Discourse</h1>
+    <br>
+    <h2 style="text-align: center; font-family:verdana; font-size:28px">For Lok Sabha 16</h2>
+</div>
+<div class="options" style="padding-top: 140px">
+    <form action="/map" method="get" style="text-align: center">
+        <input type="submit" value="Locations Plot" style="height:38px; width:180px; font-family: verdana; font-size:16px">
+    </form>
+    <br>
+    <form action="/heatmap" method="get" style="text-align: center">
+        <input type="submit" value="Locations Heatmap" style="height:38px; width:180px; font-family: verdana; font-size:16px">
+    </form>
+</div>
+{% endblock %}
+
+{% block script %}
+
+{% endblock %}
