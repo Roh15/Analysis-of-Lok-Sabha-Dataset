@@ -8,7 +8,8 @@ A dataset and some analysis of all the Lok Sabha debates up till 25th March 2021
 https://docs.google.com/presentation/d/1iJh1Oz8q1Nbub8ikniGeBbv1oHnvrm0qxQ9noowQcN4/edit?usp=sharing
 
 ## Link to all the data files
-<link>
+* **PDFs**: https://drive.google.com/drive/folders/13f2_rkDOzMOY6UYozx2gcPMrIii-475k?usp=sharing
+* **Text Files**: https://drive.google.com/drive/folders/14IBwHoa32ANWQhVATjbFoU6MkwZkOk2g?usp=sharing
 
 ## Interface
 text
