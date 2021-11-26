@@ -15,8 +15,26 @@ blah blah
 
 ## Notebook descriptions
 
-### NER and POS Tagging
+### Dataset Creation
+
+#### Notebook 1
+text
+
+#### Notebook 2
+text
+
+### Analysis
+
+#### NER and POS Tagging
 Contains scripts to perform NER on English data and POS Tagging on Hindi data. Also includes a failed attempt at NER using Deep Pavlov for Hindi data.
 
-### Calculate Stats
+#### Calculate Stats
 Contains scripts to calculate various stats such as number of files in each Lok Sabha, number of entites, frequency of entites, etc.
+
+### Interface
+
+#### Notebook 1
+text
+
+#### Notebook 2
+text
